@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  },
+  "name": "bikmin-4-dx",
+  "version": "1.0.0",
+  "description": "a rewrite of bikmin 4 in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoxelTheFennic/Bikmin-4-Deluxe.git"
+  },
+  "author": "Foxel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FoxelTheFennic/Bikmin-4-Deluxe/issues"
+  },
+  "homepage": "https://github.com/FoxelTheFennic/Bikmin-4-Deluxe#readme"
+}
