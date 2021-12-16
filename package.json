@@ -5,12 +5,15 @@
     "mongoose": "^6.1.2",
     "nodemon": "^2.0.15",
     "path": "^0.12.7",
+    "rcnlx": "^1.2.1",
+    "sequelize": "^6.12.0-beta.3",
+    "sqlite3": "^5.0.2",
     "wokcommands": "^1.5.3"
   },
   "name": "bikmin-4-dx",
   "version": "1.0.0",
   "description": "a rewrite of bikmin 4 in TS",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.ts"

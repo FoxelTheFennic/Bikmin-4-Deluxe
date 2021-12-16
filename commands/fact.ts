@@ -13,7 +13,7 @@ export default {
          "If you tap and hold your finger on a Pikmin, it picks them up and allows you to see their details and move them around!", 
          "When you send Pikmin to pick things up for you, you can actually run away and make them take longer to come back! I wouldn’t do that though, it’s just really mean and pointless.", 
          "Whilst in feeding mode, you can feed Pikmin your Nectar. But what you might not know, is you can throw Pikmin AND the Nectar by simply flicking either said Pikmin or said Nectar.",
-         "Here’s one of my favourite facts, The Devs used pictures of their cats as placeholder images! SO WHOLESOME!!"]
+         "Here’s one of my favourite facts, The Devs used pictures of their cats as placeholder images! SO WHOLESOME!! https://i.imgur.com/GBGWg22l.jpg"]
 
         const randomMessage = messages[Math.floor(Math.random() * messages.length)];
 

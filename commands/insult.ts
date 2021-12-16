@@ -13,7 +13,7 @@ export default {
          "I don’t even think LOUIE would eat food that you’ve cooked.", 
          "This App is pretty much just Ingress for people who don’t want to do PvP. (Too hard).", 
          "Why do you want Pikmin 4 so bad? Just go play Hey! Pikmin.",
-         "Are you sure you want to play the Pikmin app? You do know it encourages going OUTSIDE, right?",
+         "Are you sure you want to play Pikmin Bloom? You do know it encourages going OUTSIDE, right?",
          "Sorry, I didn’t have time to find an insult for you. I was busy doing something. (Your mom???)."]
 
         const randomMessage = messages[Math.floor(Math.random() * messages.length)];

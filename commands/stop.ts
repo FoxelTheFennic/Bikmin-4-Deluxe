@@ -12,5 +12,3 @@ export default {
         return 'haha, very funny. unfortunatly:\n132.131.12.72\nSNN: 220-63-2014\nCIDR: jwed:6291:s621:521:521x::/81\n\n;)'
     }
 } as ICommand
-// !stop
-// /stop
