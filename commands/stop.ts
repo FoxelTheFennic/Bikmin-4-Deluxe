@@ -5,7 +5,8 @@ export default {
     description: 'Stops the bot',
 
     slash: true,
-    testOnly: true,
+    testOnly: false,
+    ephemeral: true,
     testServer: ['735354860962185236'],
 
     callback: ({ interaction }) => {

@@ -18,7 +18,7 @@ client.on('ready', async () => {
     new WOKCommands(client, {
         commandDir: path.join(__dirname, 'commands'),
         typeScript: true,
-        testServers: ['735354860962185236']
+        testServers: ["735354860962185236"]
     })
 // replace guildId with your testing server id
 //    const guildId = '735354860962185236'
